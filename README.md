@@ -1,14 +1,14 @@
-# TGuardian
+# t-guardian
 
-TGuardian is a simple yet powerful tool that lets you create Typeguards in a more readable way.
+t-guardian is a simple yet powerful tool that lets you create Typeguards in a more readable way.
 
-TGuardian is compatible with the latest versions of TypeScript and supports all Typescript features.
+t-guardian is compatible with the latest versions of TypeScript and supports all Typescript features.
 
-With TGuardian, you can create Array typeguards, Object typeguards, Intersection-, and Union-typeguards.
+With t-guardian, you can create Array typeguards, Object typeguards, Intersection-, and Union-typeguards.
 
 To install the library, run the following command:
 
-```> npm install TGuardian```
+```> npm install t-guardian```
 
 Check the examples below for more information.
 
