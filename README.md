@@ -7,6 +7,7 @@ TGuard is compatible with the latest versions of TypeScript and supports all Typ
 With TGuard, you can create Array typeguards, Object typeguards, Intersection-, and Union-typeguards.
 
 To install the library, run the following command:
+
 ```> npm install tguard```
 
 Check the examples below for more information.
