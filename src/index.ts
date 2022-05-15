@@ -25,7 +25,7 @@ function isConstructor(o: any): boolean {
   }
 }
 
-export function check<T>(o: any, guard: Guard<T>): boolean {
+export function check<T>(o: any, guard: Guard<T>): o is T {
   if (isConstructor(guard)) {
     return typeof o === typeof (guard as any)();
   }
